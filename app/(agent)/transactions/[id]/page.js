@@ -1,5 +1,5 @@
-import TransactionDetail from "@/Components/TransactionDetail/TransactionDetail";
-import Header from "@/Components/UI/Header";
+import TransactionDetail from "../Components/TransactionDetail/TransactionDetail";
+import Header from "../Components/UI/Header";
 import React from "react";
 import { BiSolidShare } from "react-icons/bi";
 

@@ -1,5 +1,5 @@
-import Statistical from "@/Components/Dashboard/Statistical";
-import Header from "@/Components/UI/Header";
+import Statistical from "../Components/Dashboard/Statistical";
+import Header from "../Components/UI/Header";
 import React from "react";
 import { BiSolidShare } from "react-icons/bi";
 
