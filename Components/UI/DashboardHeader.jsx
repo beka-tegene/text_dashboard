@@ -5,7 +5,7 @@ import Profile from "./Profile";
 
 const DashboardHeader = () => {
   return (
-    <div className="flex flex-col gap-2 py-2 bg-white rounded-t-lg">
+    <div className="flex flex-col gap-2 py-2 bg-white rounded-t-lg w-full">
       <div className="flex items-center justify-between px-6">
         <h4 className="font-medium text-lg">VERP Agent’s Dashboard</h4>
         <Profile name="Solomon Kebede" role="Agent" profileImage={profiles} />
