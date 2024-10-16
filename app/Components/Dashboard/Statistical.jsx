@@ -2,8 +2,8 @@
 import React from "react";
 import BarChart from "./BarChart";
 import DonutChart from "./DonutChart";
-import img from "../../Public/Img/wallet1.png";
-import img1 from "../../Public/Img/auditReport2.png";
+import img from "../../../Public/Img/wallet1.png";
+import img1 from "../../../Public/Img/auditReport2.png";
 import StatisticalCard from "../UI/StatisticalCard";
 import { ButtonUi } from "../UI/Button";
 import { useRouter } from "next/navigation";

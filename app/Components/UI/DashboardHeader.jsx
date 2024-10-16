@@ -1,5 +1,5 @@
 import React from "react";
-import profiles from "../../Public/Img/profile.png";
+import profiles from "../../../Public/Img/profile.png";
 import Profile from "./Profile";
 
 

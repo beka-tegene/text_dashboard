@@ -1,5 +1,5 @@
-import TransactionTable from '@/Components/Transaction/TransactionTable'
-import Header from '@/Components/UI/Header';
+import TransactionTable from '@/app/Components/Transaction/TransactionTable'
+import Header from '@/app/Components/UI/Header';
 import React from 'react'
 import { BiSolidShare } from "react-icons/bi";
 const Transactions = () => {
