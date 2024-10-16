@@ -5,7 +5,7 @@ import { BiSolidShare } from "react-icons/bi";
 
 const Home = () => {
   return (
-    <div className="bg-[#F8F8F8] min-h-screen">
+    <div className="bg-[#F8F8F8] min-h-screen w-full">
       <Header title="Dashboard" icon={<BiSolidShare />} />
       <Statistical />
     </div>
